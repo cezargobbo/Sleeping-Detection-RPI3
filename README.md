@@ -1,6 +1,12 @@
-# Sleeping Detection Project for Raspberry Pi 3
+![image](https://github.com/user-attachments/assets/f8c8bb6c-f7b0-42df-9c68-04650f6d1d09)# Sleeping Detection Project for Raspberry Pi 3
 #### Ufes
 ###### Cezar Augusto Gobbo Passamani
+#
+
+This is a C++ computer vision project, designed to run on Raspberry Pi 3 with a Pi Camera connected. It runs a light Caffe model due to Raspberry hardware limitations. This project aims to help drivers to not fall asleep while driving.
+
+#
+![frame_1](![Screenshot from 2025-06-06 20-20-33](https://github.com/user-attachments/assets/1abec887-ed76-4913-9745-06e10f9813c4))
 #
 
 #### Ubuntu 18.04 LTS (64 bit) Instalation Guide
