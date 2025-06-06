@@ -6,6 +6,7 @@
 #### Ubuntu 18.04 LTS (64 bit) Instalation Guide
 
 ##### Dependencies
+```sh
 
 sudo apt-get install build-essential \
 git  \
@@ -55,7 +56,7 @@ php7.2-curl
 ```
 
 Cmake
-```
+```sh
 mkdir ~/libraries
 cd ~/libraries
 git clone https://gitlab.kitware.com/cmake/cmake.git
@@ -68,7 +69,8 @@ cd ~/libraries
 ```
 
 OPENBLAS Installation
-```
+```sh
+
 mkdir ~/libraries
 cd ~/libraries
 git clone https://github.com/xianyi/OpenBLAS.git
@@ -137,13 +139,6 @@ cd ../..
 rm dlib-19.10.tar.bz2
 cd ~/libraries
 ```
-#
-##### Shape Predictor
-
-> Download the Shape Predictor from the link: https://drive.google.com/file/d/1wOSbdgNue8bjag3MC8_jHBiG0qo9r7rm
-
-> Place it in the directory SleepingDetection/net_models/faces/ 
-
 #
 ##### Building Project
 
