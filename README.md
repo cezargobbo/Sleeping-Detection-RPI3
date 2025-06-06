@@ -1,5 +1,5 @@
 # Sleeping Detection Project for Raspberry Pi 3
-#### Ufes
+#### Universidade Federal do Espírito Santo
 ###### Cezar Augusto Gobbo Passamani
 #
 
