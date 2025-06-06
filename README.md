@@ -1,4 +1,4 @@
-# Sleeping Detection Project for Deep Learning Class
+# Sleeping Detection Project for Raspberry Pi 3
 #### Ufes
 ###### Cezar Augusto Gobbo Passamani
 #
@@ -143,7 +143,7 @@ cd ~/libraries
 ##### Building Project
 
 ```sh
-cd sleeping detection
+cd Sleeping-Detection-RPI3
 mkdir build && cd build
 cmake ..
 make
